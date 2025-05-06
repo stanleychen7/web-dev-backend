@@ -23,6 +23,7 @@
     "express": "^5.1.0",
     "pg": "^8.15.6",
     "pg-hstore": "^2.3.4",
+    "pgtools": "^1.0.1",
     "sequelize": "^6.37.7"
   },
   "devDependencies": {
